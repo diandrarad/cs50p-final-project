@@ -1,4 +1,4 @@
-# cs50p-final-project
+# Spotify Playlist Analysis and Recommendation System
 ### [Video Demo](https://youtu.be/BSphT03alDo)
 
 # Overview
