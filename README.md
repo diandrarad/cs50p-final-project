@@ -50,7 +50,7 @@ Overall, this project provides a useful and informative tool for Spotify users w
 - Similar Album Recommendations: Enter the Spotify album page URL to get recommendations for similar albums.
 6. The application will display the results based on your input.
 
-# How to Use
+# Creating an App on Spotify Developer Dashboard
 
 1. Go to https://developer.spotify.com/dashboard/ and log in with your Spotify account.
 2. Click on the "Create an App" button and fill in the necessary details.
